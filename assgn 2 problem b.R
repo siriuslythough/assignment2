@@ -1,4 +1,4 @@
-#problem(a)
+#problem(b)
 library(imager)
 flip_image<-function(image)
 {
